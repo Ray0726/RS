@@ -1,0 +1,20 @@
+.card-reveal{
+  color: #ffffff;
+  background-color: rgba(0,0,0,0.7) !important;
+}
+div.card-reveal span.card-title{
+  color: #ffffff !important;
+}
+.tabs{
+  background-color: transparent;
+}
+td, th{
+  padding: 5px 5px !important;
+}
+table.highlight>tbody>tr:hover{
+  background-color: rgba(238,110,115,0.6);
+}
+input[type=search]:focus{
+  border-bottom: 1px solid #ee6e73 !important;
+  box-shadow: 0 1px 0 0 #ee6e73 !important;
+}
